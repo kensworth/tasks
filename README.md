@@ -1,3 +1,3 @@
 # tasks
 
-Task manager script. Self explanatory.
+Task manager script
